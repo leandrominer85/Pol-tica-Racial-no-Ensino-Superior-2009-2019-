@@ -52,12 +52,15 @@ Como podemos ver há uma crecente no número de alunos afrodescendentes em todo 
 Esse crescimento pode se dever tanto ao crescimento de vagas quanto à maior proporção de afrodescendentes no ensino superior, vamos analisar:
 
 
-![02](imgs/Número relativo de afrodescentes no ensino superior por ano.png)
+![02](imgs/Número_relativo_de_afrodescentes_no_ensino_superior_por_ano.png)
+
 
 Podemos verificar que realmente há uma maior concentração de alunos afrodescendentes no ensino superior. Esse movimento é crescente ano a ano e atinge o pico de 37,36% em 2019.
 Vamos ver o número absoluto desses alunos.
 
-![03](imgs/Número total de alunos no ensino superior por ano.png)
+
+![03](imgs/Número_total_de_alunos_no_ensino_superior_por_ano.png)
+
 
 
 ![04](imgs/tabela_resumo.png)
@@ -65,4 +68,35 @@ Vamos ver o número absoluto desses alunos.
 
 Há uma entrada constante de alunos afrodescendentes no ensino superior. Mas esses alunos estão entrando em universidades públicas ou privadas?
 Primeiramente separarei os dataframes com afrodescendentes em universidades públicas e privadas. Após isso criarei uma lista com os totais para cada uma dessas categorias.
+
+
+
+![05](imgs/Número_absoluto_de_afrodescentes_no_ensino_superior_público_e_privado_por_ano.png)
+
+
+
+![06](imgs/tabela_pub_priv.png)
+
+
+Fica claro que há uma crescente tanto de alunos afrodescendentes em universidades privadas e públicas.
+Apesar disso, o crescimento relativo entre 2009 e 209 nas universidades privadas é muito maior do que nas públicas: 954% ante 514%
+Essa diferença poderia advir de estudantes que não terminam os cursos. Assim vamos analisar os alunos ingressantes:
+
+
+![07](imgs/Número_total_de_alunos_afrodescendentes_ingressantes_no_ensino_superior_por_ano.png)
+
+
+Vemos então que há realmente uma maior entrada de alunos afrodescendentes no ensino superior, principalmente no setor privado.
+Esse aumento de alunos no setor privado provavelmente é explicado pelas políticas públicas de financiamento estudantil.
+As duas principais são o FIES e o PROUNI, vamos verificar como essas políticas influenciam esse padrão
+
+
+![08](imgs/Número_total_de_alunos_no_ensino_superior_privado_que_receberam_FIES_por_ano.png)
+
+
+![09](imgs/Número_total_de_alunos_no_ensino_superior_privado_que_receberam_PROUNI_por_ano.png)
+
+
+![10](imgs/tabela_fies.png)
+
 
