@@ -99,4 +99,55 @@ As duas principais são o FIES e o PROUNI, vamos verificar como essas políticas
 
 ![10](imgs/tabela_fies.png)
 
+O Aumento de estudantes afrodescendentes no setor privado claramente tem relação com o aumento dessas políticas públicas.
+Mas qual o percentual desses estudantes utilizam esses tipos de financiamento?
+
+
+![11](imgs/tabela_fies_prouni.png)
+
+Uma parte considerável dos afrodescendentes recebe algum desses financiamentos públicos.
+Mas a taxa varia entre 31% e 14 %. Qual é então a percentagem de alunos na rede privada que necessita de financiamento ?
+
+![12](imgs/tabela_cotistas.png)
+
+O percentual de afrodescendentes que recebe financiamento apresenta no geral uma tendência de alta, o que contrasta com a diminuição dos programas federais.
+Será que esses estudantes estão recebendo financiamento da própria universidade?
+
+![13](imgs/tabela_percentagemde_afrodescendentes_financiamento_reembonsável_instituicao.png)
+
+Como o financiamento não reembonsável da instuição não explica o financiamento olharemos para o ano mais recente, 2019, para analisar a composição do financiamento.
+
+![14](imgs/tabela_percentual_financiamento.png)
+
+
+Percebemos então que o grande financiador em 2019 da educação privada de afrodescendentes são as próprias instituições de ensino, perfazendo mais de 60% do total.
+
+
+Já vimos como o ensino privado se comporta. Agora vamos analisar o impacto de políticas de cotas.
+Nesse aspecto é importante salientar que a lei de cotas de 2012 estabelece que apenas 50% das vagas serão fornecidas a estudantes que completaram o ensino médio em rede pública (excluindo das cotas obrigatórias por lei os estudantes do ensino privado) e que essas cotas seriam estabelecidas de acordo com a composição racial da unidade federativa e de maneira gradual depois da sua promulgação valendo apenas para instituições vinculadas ao nível federal
+( http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12711.htm)
+
+Portanto temos questões como temporalidade, configuração racial específica da UF, existência de instituições não federais. Todos esses aspectos poderiam ser analisados em separado, garantindo um filtro mais local. Mas, como o intuito aqui é uma análise macro, deixarei de lado essas questões. Dessa perspectiva, será possível averiguar como a política pública de cotas influenciou o sistema como um todo ao longo dos anos, incluindo um período anterior à lei e um período de adaptação, bem como poderemos ver que se o aumento no ingresso de afrodescendentes após o período de adaptação significaria a expansão das cotas para instituições não federais.
+
+
+![15](imgs/Número_absoluto_de_alunos_afrodescendentes_no_ensino_superior_público_ingressantes_por_cotas.png)
+
+![16](imgs/tabela_cotistas.png)
+
+![17](imgs/Número_relativo_de_alunos_afrodescendentes_no_ensino_superior_público_ingressantes_por_cotas_(em_%).png)
+
+
+Os pressupostos são confirmados pelos dados.
+Há durante todo o período tanto o aumento bruto quanto relativo de alunos afrodescendentes ingressantes em instituições de ensino públicas por meio de cotas.
+Esse aumento se acentua a partir de 2013 (ano de efetiva entrada em vigor da lei de cotas) e se acelera fortemente a partir de 2014.
+Interessante notar a ausência de cotitas no ano de 2009, os motivos não são claros. Também a análise demonstrou que no ensino privado não há praticamente cotas raciais, com raras exeções que não influenciam o cenário
+Também é preciso salientar que apesar desse avanço ainda temos uma distorção em relação à composição racial brasileira que de acordo com o IBGE é de aproximadamente 55% (https://www.ibge.gov.br/estatisticas/sociais/populacao/25844-desigualdades-sociais-por-cor-ou-raca.html?=&t=resultados).
+Esse cenário demonstra que ainda existem barreiras de acesso no ensino médio que se refletem no ensino superior.
+Outros fatores poderiam ser alvo de outras análises. Destaco: as relações entre as composições raciais das UFs e suas respectivas proporções de afrodescentes nas instituições federais, a 'migração' de alunos de UFs com melhores consições educacionais para instituições em outras UFs, a distorção entre a composição racial da UF e de seus estudantes.¶
+
+
+
+
+
+
 
